@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Screenshot_Analyzer
 //
-//  Created by Israel on 9/1/25.
+//  Created by Israel on 8/1/25.
 //
 
 import SwiftUI
